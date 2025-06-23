@@ -2,7 +2,7 @@
 
 A simple and functional currency converter built using **React**, **custom hooks**, and **live exchange rates** from [Fawaz Ahmed's Currency API](https://github.com/fawazahmed0/currency-api). This tool allows users to convert between INR and other currencies, with an intuitive swap function and a minimal UI design. 
 
-![Currency Converter](./shutterstock_535344640-scaled-e1654787790968-2048x973.jpg)
+![Currency Converter](Screenshot_23-6-2025_121645_localhost.jpeg)
 ### 🔗 Live API Used
 
 - `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json`
