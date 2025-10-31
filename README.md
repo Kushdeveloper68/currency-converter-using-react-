@@ -1,7 +1,8 @@
 # 💱 Currency Converter Using React
 
 A simple and functional currency converter built using **React**, **custom hooks**, and **live exchange rates** from [Fawaz Ahmed's Currency API](https://github.com/fawazahmed0/currency-api). This tool allows users to convert between INR and other currencies, with an intuitive swap function and a minimal UI design. 
-
+# Live demo: 
+https://ip-tracker-q18v.onrender.com
 ![Currency Converter](Screenshot_23-6-2025_121645_localhost.jpeg)
 ### 🔗 Live API Used
 
